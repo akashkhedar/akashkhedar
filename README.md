@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hey there! I'm Akash Khedar, a first-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.<br><br>🌐 On the frontend, I love bringing designs to life with HTML, CSS, and JavaScript, creating dynamic and responsive interfaces that engage users.<br><br>⚙️ Meanwhile, on the backend, I enjoy building scalable and efficient server-side applications using frameworks like Node.js, Express, and Django, along with managing databases with SQL and NoSQL solutions.<br><br>🚀 Eager to explore the entire development stack and bridge the gap between client-side and server-side functionalities, I'm constantly seeking new challenges and learning opportunities.<br><br>🔍 You can find me on GitHub working on projects that showcase my full-stack skills, from e-commerce platforms to social networking sites, as I strive to make meaningful contributions to the tech community.<br><br>🌱 Let's collaborate, code, and create impactful solutions that push the boundaries of full-stack development!</h2>
+<h2 align="left">👋 Hey there! I'm Akash Khedar, a first-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.<br><br>🌐 On the frontend, I love bringing designs to life with HTML, CSS, JavaScript and React, creating dynamic and responsive interfaces that engage users.<br><br>⚙️ Meanwhile, on the backend, I enjoy building scalable and efficient server-side applications using frameworks like Node.js and Express, along with managing databases with MongoDB solutions.<br><br>🚀 Eager to explore the entire development stack and bridge the gap between client-side and server-side functionalities, I'm constantly seeking new challenges and learning opportunities.<br><br>🔍 You can find me on GitHub working on projects that showcase my full-stack skills, from e-commerce platforms to social networking sites, as I strive to make meaningful contributions to the tech community.<br><br>🌱 Let's collaborate, code, and create impactful solutions that push the boundaries of full-stack development!</h2>
 
 ###
 
@@ -47,7 +47,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/akashkhedar/akashkhedar/output/snake.svg" alt="Snake animation" />
-
 ###
