@@ -5,11 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=akashkhedar&label=Profile%20views&color=0e75b6&style=flat" alt="akashkhedar" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akashkhedar&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
+![trophy](https://quibblestats.vercel.app/api/trophy/akashkhedar?apiKey=grg_ddaae45c8da558ae579b0b9b0ad71a0ac40c218e8509581b&theme=merko)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -58,9 +55,9 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkhedar&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkhedar&show_icons=true&locale=en" alt="GitHub Stats" style="width: 45%;" />
-</div>
+
+![stats](https://quibblestats.vercel.app/api/stats/akashkhedar?apiKey=grg_ddaae45c8da558ae579b0b9b0ad71a0ac40c218e8509581b&theme=merko)
+![languages](https://quibblestats.vercel.app/api/languages/akashkhedar?apiKey=grg_ddaae45c8da558ae579b0b9b0ad71a0ac40c218e8509581b&theme=merko&layout=donut)
+
 
 <h3 align="center" style="font-size: 1.5em; color: #6c757d;">Let's build something amazing together 🚀</h3>
